@@ -84,7 +84,7 @@
     }
 
     .terminal {
-        height: 100%;
+        height: calc(100% - 24px);
         overflow-y: auto;
         overflow-anchor: none;
     }
