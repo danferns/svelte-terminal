@@ -16,6 +16,17 @@
             output = [];
             return [];
         },
+		links: () => {
+			return ["Agnel Institue of Technology and Design",
+                    "-Email: prinaitd@aitdgoa.edu.in",
+                    "-Phone: 09975797916 / 919975797916",
+                    "-Address: Agnel Technical Educational Complex, Assagao, Bardez – Goa 403507",
+                    "Follow us on:-",
+                    "-Instagram: https://instagram.com/aitdgoa?igshid=YmMyMTA2M2Y=",
+                    "-Twitter: https://twitter.com/AitdGoa?t=j1EhwYYYxiFwNNlDYF4qCQ&s=09",
+                    "-LinkedIn: https://www.linkedin.com/school/aitdgoa/"]
+			
+		}
     };
 
     let output = [];
