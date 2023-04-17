@@ -37,6 +37,9 @@
                      "-Valerian",
                      "-Warren",
                      "-Atreya"];
+		},
+        whereto: () => {
+			window.open("https://goo.gl/maps/KdU82hjc5bjR1zQi6");
 		}
     };
 
