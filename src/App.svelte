@@ -110,8 +110,7 @@
     }
 
     function executeCommand(text) {
-        const args = text.trim().split(/\s/);
-        const command = args[0];
+        const [command, args] = text.trim().split(/\s/);
 
         const result = getCommandResult(command, args);
         output = [...output, ...result];
