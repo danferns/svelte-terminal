@@ -26,6 +26,9 @@
                     "-Twitter: https://twitter.com/AitdGoa?t=j1EhwYYYxiFwNNlDYF4qCQ&s=09",
                     "-LinkedIn: https://www.linkedin.com/school/aitdgoa/"]
 			
+		},
+        rick: () => {
+			window.open("https://www.youtube.com/watch?v=dQw4w9WgXcQ")
 		}
     };
 
